@@ -6,6 +6,7 @@
     "name": "Edward Hotchkiss",
     "email": "edward@edwardhotchkiss.com"
   },
+  "typings": "index.d.ts",
   "contributors": [
     {
       "name": "Edward Hotchkiss",
